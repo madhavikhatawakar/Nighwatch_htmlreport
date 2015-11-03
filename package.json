@@ -16,7 +16,7 @@
     "grunt-cli": "^0.1.13",
     "grunt-nightwatch-report": "^0.1.6",
     "nightwatch": "^0.7.9",
-	"nightwatch-html-reporter",
-	"grunt-contrib-clean"
+	"nightwatch-html-reporter":"latest",
+	"grunt-contrib-clean":"latest"
   }
 }
